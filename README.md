@@ -1,6 +1,6 @@
 Example of Bokeh tutorial running in a pyodide kernel in JupyterLite.
 
-Deployed to github pages at
+Deployed to github pages at https://ianthomas23.github.io/bokeh-tutorial-pyodide
 
 To try out locally, create a python virtual environment of your choice (`venv`, `pyenv`,
 'mamba', `conda`, etc) and follow these steps:
